@@ -1,4 +1,4 @@
-# temporal-parent-child-activity
+# temporal elt 
 Registers and runs two child workflows and two activites. 
 
 #run all tests 
